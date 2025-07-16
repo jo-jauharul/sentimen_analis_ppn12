@@ -47,7 +47,7 @@ menu = st.sidebar.radio("Menu", [
 ])
 st.sidebar.markdown("""
 ---
-*By: Nama Kamu*  
+*By: Muhammad Jauharul Maknun*  
 Optimasi Naive Bayes, TF-IDF, Word2Vec
 """)
 
@@ -232,5 +232,5 @@ elif menu == "Prediksi":
 # --- FOOTER ---
 st.markdown("""
 ---
-<center><small>Dikembangkan untuk tugas optimasi analisis sentimen PPN 12%<br>by <b>Nama Kamu</b> | 2025</small></center>
+<center><small>Dikembangkan untuk tugas optimasi analisis sentimen PPN 12%<br>by <b>Muhammad Jauharul Maknun</b> | 2025</small></center>
 """, unsafe_allow_html=True)
